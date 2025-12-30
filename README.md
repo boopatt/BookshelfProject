@@ -14,18 +14,7 @@ Short project to clean, document, and analyze a personal bookshelf export. Conta
 - Provide basic exploratory analysis and visualizations.
 
 ## Quick setup (Windows)
-1. Create & activate a venv:
-```powershell
-python -m venv .venv
-.venv\Scripts\activate
-```
-2. Install dependencies:
-```powershell
-pip install -r requirements.txt
-# or
-pip install jupyter pandas numpy matplotlib seaborn
-```
-3. Launch the notebook:
+Launch the notebook:
 ```powershell
 jupyter notebook Bookshelfproject.ipynb
 ```
